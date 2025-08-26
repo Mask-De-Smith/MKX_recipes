@@ -1,2 +1,2 @@
-# MKX_recipes
-Simple guide on how to cook with characters in MKX
+# TASTY_recipes
+Simple guide on how to cook authentic tasty food with all the respective ingredients.
